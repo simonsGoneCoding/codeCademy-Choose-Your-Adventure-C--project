@@ -11,3 +11,16 @@ D:\nauka\KURSY\codeAcademy\C#\Password-Checker\ChooseYourAdventure\ChooseYourAdv
 D:\nauka\KURSY\codeAcademy\C#\Password-Checker\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.dll
 D:\nauka\KURSY\codeAcademy\C#\Password-Checker\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.pdb
 D:\nauka\KURSY\codeAcademy\C#\Password-Checker\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.genruntimeconfig.cache
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\bin\Debug\netcoreapp3.1\ChooseYourAdventure.exe
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\bin\Debug\netcoreapp3.1\ChooseYourAdventure.deps.json
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\bin\Debug\netcoreapp3.1\ChooseYourAdventure.runtimeconfig.json
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\bin\Debug\netcoreapp3.1\ChooseYourAdventure.runtimeconfig.dev.json
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\bin\Debug\netcoreapp3.1\ChooseYourAdventure.dll
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\bin\Debug\netcoreapp3.1\ChooseYourAdventure.pdb
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.csprojAssemblyReference.cache
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.AssemblyInfoInputs.cache
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.AssemblyInfo.cs
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.csproj.CoreCompileInputs.cache
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.dll
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.pdb
+D:\nauka\KURSY\codeAcademy\C#\Choose-Your-Adventure\ChooseYourAdventure\ChooseYourAdventure\obj\Debug\netcoreapp3.1\ChooseYourAdventure.genruntimeconfig.cache
